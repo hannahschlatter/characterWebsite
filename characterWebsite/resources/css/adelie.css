@@ -1,0 +1,7 @@
+html {
+  background-image: url(https://images.8tracks.com/cover/i/001/793/920/tumblr_inline_n0jno3NLDF1r5kjtk-3505.jpg?rect=12,125,400,400&q=98&fm=jpg&fit=max);
+}
+h2:hover {
+  background-color: #FFFFFF;
+  color:red;
+}
